@@ -4,7 +4,7 @@ layout: default
 
 # Hello!
 
-I'm Brian, a software devleoper and educator living in Boston, Massachusetts.
+I'm Brian, a software developer and educator living in Boston, Massachusetts.
 I graduated from Harvard College in 2019 with a degree in computer science and linguistics
 and from Harvard Graduate School of Education in 2021 with a master's degree in technology, innovation, and education.
 
